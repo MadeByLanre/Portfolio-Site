@@ -1,0 +1,175 @@
+/*
+Theme Name: MadeForLanre
+Theme URI: http://www.madebylanre.com
+Description: MadeByLanre's stylesheet
+Version: 1.0
+Author URI: Lanre
+*/
+
+/* Styles go below */
+
+body{
+	background: url("http://madebylanre.com/wp-content/uploads/2013/09/TealOcean.png") no-repeat scroll center center transparent;
+	background-size: cover;
+	color: white;
+	font-family: 'Spicy Rice', cursive;
+	font-size: 14px;
+	margin: 0px;
+}
+
+.wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+
+div.wpcf7-mail-sent-ok {
+	font-size: 22px;
+}
+
+a {
+	color: #0A3142;
+}
+
+nav {
+	display: inline;
+	text-align: center;
+}
+
+nav li {
+	display: inline;
+	font-size: 20px;
+	list-style: none;
+	margin-right: 10px;
+	text-transform: uppercase;
+}
+
+nav li a {
+	color: #0A3142;
+	font-size: 32px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#centerposts {
+	color: white;
+}
+
+#sliderpic {
+	border-bottom: 5px solid white;
+	border-top: 5px solid white;
+	margin-bottom: 116px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#characters {
+	clear: both;
+	display: table;
+	margin-bottom: 50px;
+}
+
+#chararow1 {
+	display: table-row;
+}
+
+#chararow2 {
+	display: table-row;
+}
+
+
+#chara1 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#chara2 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#chara3 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#chara4 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#chara5 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#chara6 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#chara7 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#chara8 {
+	border: 3px none yellow;
+	display: table-cell;
+	margin-right: 8px;
+}
+
+#slideinfo {
+	font-family: 'Spicy Rice', cursive;
+	font-size: 25px;
+	margin-top: -116px;
+}
+
+#divtext {
+	font-family: 'Spicy Rice', cursive;
+	font-size: 25px;
+	margin-top: 16px;
+}
+
+#musicpower {
+	background-color: black;
+	color: white;
+	font-family: 'Spicy Rice', cursive;
+	font-size: 17px;
+	letter-spacing: 2px;
+	margin-left: 5px;
+	margin-top: 15px;
+}
+
+.Menu-1 {
+	color: white;
+	display: inline;
+	list-style: none;
+	float: right;
+}
+
+.menu {
+	color: white;
+	display: inline;
+	list-style: none;
+	float: right;
+}
+
+.menu li {
+	color: white;
+	display: inline;
+	margin-left: 40px;
+	text-decoration: none;
+}
+
+.menu li a{
+	color: white;
+	text-decoration: none;
+}
